@@ -1,4 +1,4 @@
-Special thanks to [Corey Mines](https://dribbble.com/coreymines) for his [work]((https://dribbble.com/shots/3667912-Daily-UI-010-Social-Share)).
+Special thanks to [Corey Mines](https://dribbble.com/coreymines) for his [work](https://dribbble.com/shots/3667912-Daily-UI-010-Social-Share).
 
 To compile use 
 ```
