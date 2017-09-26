@@ -1,0 +1,11 @@
+$fa-font-path: "~font-awesome/fonts";
+@import "~font-awesome/scss/font-awesome.scss";
+@import "~material-design-icons/iconfont/material-icons.css";
+@import "../../../node_modules/node-normalize-scss/normalize";
+
+.share-wrapper {
+  position: relative;
+  padding-top: 100px;
+  width: 0;
+  margin: 0 auto;
+}
